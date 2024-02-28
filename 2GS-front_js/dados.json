@@ -1,0 +1,13 @@
+{
+    "usuarios":[
+        {
+            "usuario":"Professor",
+            "senha":123
+        },
+        {
+            "usuario":"Aluno",
+            "senha":321
+        }
+
+    ]
+}
